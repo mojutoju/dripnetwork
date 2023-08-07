@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 609 398" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-769.131)">
+        <g id="Artboard1" transform="matrix(0.563596,0,0,0.368497,0,769.131)">
+            <rect x="0" y="0" width="1080" height="1080" style="fill:none;"/>
+            <g transform="matrix(1.77432,0,0,2.71372,-418.133,-887.737)">
+                <g transform="matrix(1.14468,0,0,1.14468,118.264,-119.082)">
+                    <text x="327.98px" y="540px" style="font-family:'Helvetica';font-size:64.179px;fill:white;">The</text>
+                </g>
+                <g transform="matrix(0.400878,0,0,0.400878,441.153,398.123)">
+                    <text x="327.98px" y="540px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:64.179px;fill:white;">N<tspan x="377.473px 423.424px 465.772px 529.492px 582.558px 632.051px " y="540px 540px 540px 540px 540px 540px ">ETWORK</tspan></text>
+                </g>
+                <g transform="matrix(1.74538,0,0,1.74538,-81.9015,-353.78)">
+                    <text x="327.98px" y="540px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:64.179px;fill:rgb(255,203,0);">DRIP</text>
+                </g>
+                <g transform="matrix(0.984594,0,0,0.952181,-15.4403,138.673)">
+                    <path d="M447.513,297.624C431.887,327.812 392.874,411.064 392.874,459.681C392.874,490.864 417.357,516.18 447.513,516.18C477.669,516.18 502.152,490.864 502.152,459.681C502.152,411.064 441.262,343.971 447.513,297.624Z" style="fill:rgb(255,194,0);"/>
+                </g>
+                <g transform="matrix(0.854057,-0.402728,0.488214,1.03534,-224.831,232.384)">
+                    <ellipse cx="444.009" cy="513.829" rx="11.149" ry="17.608" style="fill:white;fill-opacity:0.63;"/>
+                </g>
+                <g transform="matrix(0.20202,-0.0457121,0.0442073,0.19537,354.078,414.109)">
+                    <path d="M447.513,297.624C431.887,327.812 392.874,411.064 392.874,459.681C392.874,490.864 417.357,516.18 447.513,516.18C477.669,516.18 502.152,490.864 502.152,459.681C502.152,411.064 441.262,343.971 447.513,297.624Z" style="fill:rgb(255,203,0);"/>
+                </g>
+                <g transform="matrix(0.2974,0,0,0.28761,209.964,456.856)">
+                    <path d="M447.513,297.624C431.887,327.812 392.874,411.064 392.874,459.681C392.874,490.864 417.357,516.18 447.513,516.18C477.669,516.18 502.152,490.864 502.152,459.681C502.152,411.064 441.262,343.971 447.513,297.624Z" style="fill:rgb(255,203,0);"/>
+                </g>
+                <g transform="matrix(0.27687,-0.130557,0.15827,0.33564,133.497,476.862)">
+                    <ellipse cx="444.009" cy="513.829" rx="11.149" ry="17.608" style="fill:white;fill-opacity:0.63;"/>
+                </g>
+                <g transform="matrix(0.22401,-0.105631,0.128053,0.27156,295.229,392.893)">
+                    <ellipse cx="444.009" cy="513.829" rx="11.149" ry="17.608" style="fill:white;fill-opacity:0.42;"/>
+                </g>
+                <g transform="matrix(1.14468,0,0,1.14468,-95.8312,-17.6832)">
+                    <rect x="519.718" y="542.579" width="60.027" height="3.352" style="fill:white;stroke:white;stroke-width:0.87px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
